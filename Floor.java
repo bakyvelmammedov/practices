@@ -1,7 +1,5 @@
 package day34_constructors_passing_object_method;
 
-import review_week5.methods;
-
 public class Floor {
 	
 	double width;
